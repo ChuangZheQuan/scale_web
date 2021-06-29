@@ -114,7 +114,7 @@ class IntroductionWidget extends StatelessWidget {
                 : context.percentWidth * 40),
         RaisedButton(
           onPressed: () {
-            launch("https://scale-web-app-2.vercel.app");
+            launch("https://scale-web-app-2-pearl.vercel.app/");
           },
           hoverColor: Vx.hexToColor("#038a91"),
           shape: Vx.roundedSm,
